@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ruler">
+        <attr name="scaleWidth" format="dimension" />
+        <attr name="scaleHeight" format="dimension" />
+        <attr name="cursorColor" format="color" />
+        <attr name="scaleColor" format="color" />
+        <attr name="scalePointerColor" format="color" />
+    </declare-styleable>
+</resources>
